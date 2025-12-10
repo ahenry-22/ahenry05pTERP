@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "clearCollection.js",
   "scripts": {
-  "start": "node server.js"
+  "start": "node MoviesSystem.js"
   },
   "dependencies": {
     "body-parser": "^2.2.0",
